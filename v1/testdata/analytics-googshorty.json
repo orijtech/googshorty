@@ -1,0 +1,159 @@
+{
+ "kind": "urlshortener#url",
+ "id": "https://goo.gl/XRdHKo",
+ "longUrl": "https://github.com/orijtech/googshorty",
+ "status": "OK",
+ "created": "2017-05-10T05:12:18.170+00:00",
+ "analytics": {
+  "allTime": {
+   "shortUrlClicks": "3",
+   "longUrlClicks": "3",
+   "referrers": [
+    {
+     "count": "3",
+     "id": "unknown"
+    }
+   ],
+   "browsers": [
+    {
+     "count": "1",
+     "id": "Chrome"
+    },
+    {
+     "count": "1",
+     "id": "Firefox"
+    },
+    {
+     "count": "1",
+     "id": "Safari"
+    }
+   ],
+   "platforms": [
+    {
+     "count": "3",
+     "id": "Macintosh"
+    }
+   ]
+  },
+  "month": {
+   "shortUrlClicks": "3",
+   "longUrlClicks": "3",
+   "referrers": [
+    {
+     "count": "3",
+     "id": "unknown"
+    }
+   ],
+   "browsers": [
+    {
+     "count": "1",
+     "id": "Chrome"
+    },
+    {
+     "count": "1",
+     "id": "Firefox"
+    },
+    {
+     "count": "1",
+     "id": "Safari"
+    }
+   ],
+   "platforms": [
+    {
+     "count": "3",
+     "id": "Macintosh"
+    }
+   ]
+  },
+  "week": {
+   "shortUrlClicks": "3",
+   "longUrlClicks": "3",
+   "referrers": [
+    {
+     "count": "3",
+     "id": "unknown"
+    }
+   ],
+   "browsers": [
+    {
+     "count": "1",
+     "id": "Chrome"
+    },
+    {
+     "count": "1",
+     "id": "Firefox"
+    },
+    {
+     "count": "1",
+     "id": "Safari"
+    }
+   ],
+   "platforms": [
+    {
+     "count": "3",
+     "id": "Macintosh"
+    }
+   ]
+  },
+  "day": {
+   "shortUrlClicks": "3",
+   "longUrlClicks": "3",
+   "referrers": [
+    {
+     "count": "3",
+     "id": "unknown"
+    }
+   ],
+   "browsers": [
+    {
+     "count": "1",
+     "id": "Chrome"
+    },
+    {
+     "count": "1",
+     "id": "Firefox"
+    },
+    {
+     "count": "1",
+     "id": "Safari"
+    }
+   ],
+   "platforms": [
+    {
+     "count": "3",
+     "id": "Macintosh"
+    }
+   ]
+  },
+  "twoHours": {
+   "shortUrlClicks": "3",
+   "longUrlClicks": "3",
+   "referrers": [
+    {
+     "count": "3",
+     "id": "unknown"
+    }
+   ],
+   "browsers": [
+    {
+     "count": "1",
+     "id": "Chrome"
+    },
+    {
+     "count": "1",
+     "id": "Firefox"
+    },
+    {
+     "count": "1",
+     "id": "Safari"
+    }
+   ],
+   "platforms": [
+    {
+     "count": "3",
+     "id": "Macintosh"
+    }
+   ]
+  }
+ }
+}
